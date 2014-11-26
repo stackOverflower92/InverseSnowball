@@ -43,6 +43,7 @@ public class TutorialGame extends BasicGame{
 	private UserSetting userSettings;
 
 	//Methods
+	//Commeto alla cazzo
 	public TutorialGame() throws IOException{
         super("Prova Game");
         
@@ -99,7 +100,7 @@ public class TutorialGame extends BasicGame{
 		
 		for (int i = 0; i < toParse.length(); i++){
 			//If space is encountered change array place
-			if (toParse.charAt(i) == '§'){
+			if (toParse.charAt(i) == 'ï¿½'){
 				currentName++;
 				i++;
 			}
