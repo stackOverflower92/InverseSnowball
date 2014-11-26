@@ -45,7 +45,7 @@ public class TutorialGame extends BasicGame{
 	//Methods
 	//Commeto alla cazzo
 	public TutorialGame() throws IOException{
-        super("Prova Game");
+        super("Inverse Snowball");
         
         //GUI init
         userInterface = new GUI();
@@ -137,11 +137,11 @@ public class TutorialGame extends BasicGame{
 	}
 	
 	public Character getMainch(){
-		return this.mainChar;
+		return mainChar;
 	}
 	
 	public Character getOpponent(){
-		return this.mainOpponent;
+		return mainOpponent;
 	}
 	 
 	public void oppDamage(String team){
