@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="10" height="10" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="snow64" tilewidth="64" tileheight="64">
+  <image source="snow64.png" width="1024" height="512"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="10" height="10">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+NkYGDgI4C5gFgViJUIYH4gVgBiNQJYEYi5gVgciDnwYG4ktjgOjK4Hm7w4DjPx2cs5AOGiDcQAJBvJkpABAAA=
+  </data>
+ </layer>
+</map>

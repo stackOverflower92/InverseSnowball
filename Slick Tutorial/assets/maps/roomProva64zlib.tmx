@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="20" height="20" tilewidth="30" tileheight="30">
+ <tileset firstgid="1" name="free_tileset_version_9" tilewidth="32" tileheight="32">
+  <image source="../../../../../Development/My Projects - PC Backup/My Projects/Mandibless/sprites/free_tileset_version_9.png" width="480" height="1088"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzjZmBg4B7EmH0Uj+JRPIpH8aDEAAOaC5E=
+  </data>
+ </layer>
+ <layer name="Objects" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJwrYGBgKATiIiAuwMHOAeJcIK5jZGAwAtLGQLwViLcBcRYQZwOxKRCbAXE9EDcAcSMedjIDAjgCsRMQHwHio0BcCcRVQOwCxK4M1AOhUIwOzuHA5ACQvlNAfBoLTYyZVljMuwnEt7DQhMy7C8SeONxIrn/R3UcJwOW+UTAKRsHQAQCoESrv
+  </data>
+ </layer>
+</map>
