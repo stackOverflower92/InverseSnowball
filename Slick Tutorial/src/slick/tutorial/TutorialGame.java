@@ -44,6 +44,7 @@ public class TutorialGame extends BasicGame{
 
 	//Methods
 	//Commeto alla cazzo
+	//Sti bei cazzi
 	public TutorialGame() throws IOException{
         super("Inverse Snowball");
         
@@ -96,6 +97,7 @@ public class TutorialGame extends BasicGame{
 	private String[] extractSettingsFields(String toParse){
 		String[] names = new String[2];
 		int currentName = 0;
+		
 		names[0] = ""; names[1] = "";
 		
 		for (int i = 0; i < toParse.length(); i++){
