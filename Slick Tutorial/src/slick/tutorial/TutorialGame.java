@@ -43,8 +43,6 @@ public class TutorialGame extends BasicGame{
 	private UserSetting userSettings;
 
 	//Methods
-	//Commeto alla cazzo
-	//Sti bei cazzi
 	public TutorialGame() throws IOException{
         super("Inverse Snowball");
         
